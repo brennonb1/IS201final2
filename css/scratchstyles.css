@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(230, 187, 133);
+    color: rgb(40, 40, 40);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.standard{
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+.home-button{
+    padding: 20px;
+    border: 5px solid black;
+    width: 100 px;
+}
+h2{
+    font-size: 30px;
+    height: 30px;
+}
